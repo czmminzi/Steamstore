@@ -1,0 +1,20 @@
+#classify{
+  font-size: 0.8em;	
+  font-weight: bold;
+}
+.className{
+	font-size: 0.8em;
+}
+a{
+  text-decoration: none;
+  out-line: none;
+}
+.menu1{
+	font-size:0.8em;
+}
+.menu2{
+	font-size:0.8em;
+}
+.introName{
+	font-weight: bold;
+}
